@@ -1,0 +1,13 @@
+4
+978612200001,Harry Potter y la Piedra Filosofal,J.K. Rowling,1997
+978612200002,Harry Potter y la Cámara Secreta,J.K. Rowling,1998
+978612200003,Los Juegos del Hambre,Suzanne Collins,2008
+978612200004,En Llamas,Suzanne Collins,2009
+978612200005,Sinsajo,Suzanne Collins,2010
+978612200006,Bajo la Misma Estrella,John Green,2012
+978612200007,Ciudades de Papel,John Green,2008
+978612200008,Percy Jackson y el Ladrón del Rayo,Rick Riordan,2005
+978612200009,El Mar de los Monstruos,Rick Riordan,2006
+978612200010,Divergente,Veronica Roth,2011
+978612200011,Insurgente,Veronica Roth,2012
+978612200012,Leal,Veronica Roth,2013
